@@ -1,0 +1,2 @@
+# TheOdinProjectFullStackRubyOnRails
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails
